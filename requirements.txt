@@ -1,0 +1,6 @@
+ibm_cos_sdk==2.4.4
+ibm_cos_sdk_core==2.4.4
+pandas==0.24.2
+
+Flask==1.0.2
+cloudant==2.12.0
